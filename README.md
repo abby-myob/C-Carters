@@ -1,2 +1,2 @@
-# C-Carters
+# Katas
 Learning C#
