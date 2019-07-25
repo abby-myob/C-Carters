@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/abby.thompson/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/abby.thompson/Development/Katas/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/abby.thompson/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/Users/abby.thompson/Development/Katas/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/Users/abby.thompson/.nuget/packages/",
-      "outputPath": "/Users/abby.thompson/RiderProjects/ConsoleApp1/ConsoleApp1/obj/",
+      "outputPath": "/Users/abby.thompson/Development/Katas/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

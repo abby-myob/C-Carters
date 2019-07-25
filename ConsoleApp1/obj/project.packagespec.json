@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/abby.thompson/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+    "projectUniqueName": "/Users/abby.thompson/Development/Katas/ConsoleApp1/ConsoleApp1.csproj",
     "projectName": "ConsoleApp1",
-    "projectPath": "/Users/abby.thompson/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
-    "outputPath": "/Users/abby.thompson/RiderProjects/ConsoleApp1/ConsoleApp1/obj/",
+    "projectPath": "/Users/abby.thompson/Development/Katas/ConsoleApp1/ConsoleApp1.csproj",
+    "outputPath": "/Users/abby.thompson/Development/Katas/ConsoleApp1/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
