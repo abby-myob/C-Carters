@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b273363f-8744-4ded-a90c-50702fe9b6df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,14 +19,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+            <state relative-caret-position="690">
+              <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
               <folding>
-                <marker date="1564026618351" expanded="true" signature="36:1374" ph="{...}" />
-                <marker date="1564026618351" expanded="true" signature="56:1372" ph="{...}" />
-                <marker date="1564026618351" expanded="true" signature="97:1366" ph="{...}" />
-                <marker date="1564026618351" expanded="true" signature="321:410" ph="{...}" />
-                <marker date="1564026618351" expanded="true" signature="515:1356" ph="/* if (response == &quot;+&quot;) ... */" />
+                <marker date="1564029210859" expanded="true" signature="6:67" ph="..." />
+                <marker date="1564029210859" expanded="true" signature="90:1719" ph="{...}" />
+                <marker date="1564029210859" expanded="true" signature="110:1702" ph="{...}" />
+                <marker date="1564029210859" expanded="true" signature="151:1561" ph="{...}" />
+                <marker date="1564029210859" expanded="true" signature="296:1278" ph="{...}" />
+                <marker date="1564029210859" expanded="true" signature="505:727" ph="{...}" />
+                <marker date="1564029210859" expanded="true" signature="748:858" ph="{...}" />
+                <marker date="1564029210859" expanded="true" signature="930:1086" ph="{...}" />
+                <marker date="1564029210859" expanded="true" signature="1107:1264" ph="{...}" />
+                <marker date="1564029210859" expanded="true" signature="1613:1696" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -51,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1680" />
     <option name="y" value="-1125" />
     <option name="width" value="1080" />
@@ -132,12 +141,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564023621839</updated>
-      <workItem from="1564023623226" duration="1956000" />
+      <workItem from="1564023623226" duration="4502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1956000" />
+    <option name="totallyTimeSpent" value="4502000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -149,10 +158,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="-1125" width="1080" height="1897" extended-state="6" />
+    <frame x="1680" y="-1125" width="1080" height="1897" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.098265894" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.098265894" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -162,9 +172,10 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Build" weight="0.3290859" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4033241" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -195,14 +206,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        <state relative-caret-position="690">
+          <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
           <folding>
-            <marker date="1564026618351" expanded="true" signature="36:1374" ph="{...}" />
-            <marker date="1564026618351" expanded="true" signature="56:1372" ph="{...}" />
-            <marker date="1564026618351" expanded="true" signature="97:1366" ph="{...}" />
-            <marker date="1564026618351" expanded="true" signature="321:410" ph="{...}" />
-            <marker date="1564026618351" expanded="true" signature="515:1356" ph="/* if (response == &quot;+&quot;) ... */" />
+            <marker date="1564029210859" expanded="true" signature="6:67" ph="..." />
+            <marker date="1564029210859" expanded="true" signature="90:1719" ph="{...}" />
+            <marker date="1564029210859" expanded="true" signature="110:1702" ph="{...}" />
+            <marker date="1564029210859" expanded="true" signature="151:1561" ph="{...}" />
+            <marker date="1564029210859" expanded="true" signature="296:1278" ph="{...}" />
+            <marker date="1564029210859" expanded="true" signature="505:727" ph="{...}" />
+            <marker date="1564029210859" expanded="true" signature="748:858" ph="{...}" />
+            <marker date="1564029210859" expanded="true" signature="930:1086" ph="{...}" />
+            <marker date="1564029210859" expanded="true" signature="1107:1264" ph="{...}" />
+            <marker date="1564029210859" expanded="true" signature="1613:1696" ph="{...}" />
           </folding>
         </state>
       </provider>

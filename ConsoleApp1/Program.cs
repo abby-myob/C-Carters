@@ -1,4 +1,6 @@
 ﻿using System;
+using System.ComponentModel.Design;
+using System.Net;
 
 namespace ConsoleApp1
 {
@@ -6,16 +8,54 @@ namespace ConsoleApp1
     {
         private static void Main()
         {
-            Console.WriteLine("Give me a number between 1 and 12");
+            const int secretNum = 301;
+            var numOfTries = 1;
+            var num = 0;
 
-            var response = Console.ReadLine();
-            
-            var num = int.Parse(response);
 
-            for (int i = 1; i <= 12; i++)
+            while (num != secretNum)
             {
-                Console.WriteLine($"{num} * {i} = {i*num}");
+                var prevNum = num;
+                Console.WriteLine("Give me a number.");
+                var response = Console.ReadLine();
+                if (int.TryParse(response, out num))
+                {
+                    num = int.Parse(response);
+                    if (num == prevNum) continue;
+                    if (num == secretNum) continue;
+                    numOfTries += 1;
+                }
+                else
+                {
+                    IllegalInputResponse();
+                    continue;
+                }
+                 
+                
+                if (secretNum > num)
+                {
+                    Console.WriteLine("Close but no cigar");
+                    Console.WriteLine("You're too low\n");
+                }
+                else
+                {
+                    Console.WriteLine("Close but no cigar");
+                    Console.WriteLine("You're too high\n");
+                }
             }
+
+            Console.WriteLine(
+                numOfTries > 0
+                    ? $"Congratulations, you guessed the secret number. It took you {numOfTries} tries."
+                    : $"Congratulations, you guessed the secret number. It took you {numOfTries} try.");
+        }
+
+        private static void IllegalInputResponse()
+        {
+            Console.WriteLine("That wasn't a number dude.\n");
         }
     }
+    
+    
+    
 }
