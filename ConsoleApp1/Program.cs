@@ -6,50 +6,16 @@ namespace ConsoleApp1
     {
         private static void Main()
         {
-            Console.WriteLine("Give me a number.");
+            Console.WriteLine("Give me a number between 1 and 12");
 
             var response = Console.ReadLine();
             
             var num = int.Parse(response);
-            
-            Console.WriteLine("Do you want the Sum(+) or the product(x)?");
-            response = Console.ReadLine();
-            
-            var sum = 0;
 
-            if (response == "+")
+            for (int i = 1; i <= 12; i++)
             {
-                for (var i = 1; i < num + 1; i++)
-                {
-                    sum += i;
-                }
-            } else if (response == "x")
-            {
-                sum = 1;
-                for (var i = 1; i < num + 1; i++)
-                {
-                    sum *= i;
-                }
+                Console.WriteLine($"{num} * {i} = {i*num}");
             }
-            else
-            {
-                Console.WriteLine("wrong choice");
-                return;
-                
-            }
-            
-            Console.WriteLine(sum);
-
-
-            //if (num % 5 != 0 || num % 3 != 0) return;
-
-//            if (name == null) return;
-// 
-//            
-//            if (String.Compare(name, "bob", StringComparison.OrdinalIgnoreCase) == 0 || String.Compare(name, "alice", StringComparison.OrdinalIgnoreCase) == 0)
-//            {
-//                Console.WriteLine($"Hi, {name}");
-//            }
         }
     }
 }
