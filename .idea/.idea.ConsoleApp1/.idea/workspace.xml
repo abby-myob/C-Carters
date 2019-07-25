@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b273363f-8744-4ded-a90c-50702fe9b6df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,19 +15,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+            <state relative-caret-position="240">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding>
-                <marker date="1564029210859" expanded="true" signature="6:67" ph="..." />
-                <marker date="1564029210859" expanded="true" signature="90:1719" ph="{...}" />
-                <marker date="1564029210859" expanded="true" signature="110:1702" ph="{...}" />
-                <marker date="1564029210859" expanded="true" signature="151:1561" ph="{...}" />
-                <marker date="1564029210859" expanded="true" signature="296:1278" ph="{...}" />
-                <marker date="1564029210859" expanded="true" signature="505:727" ph="{...}" />
-                <marker date="1564029210859" expanded="true" signature="748:858" ph="{...}" />
-                <marker date="1564029210859" expanded="true" signature="930:1086" ph="{...}" />
-                <marker date="1564029210859" expanded="true" signature="1107:1264" ph="{...}" />
-                <marker date="1564029210859" expanded="true" signature="1613:1696" ph="{...}" />
+                <marker date="1564029693910" expanded="true" signature="6:91" ph="..." />
+                <marker date="1564029693910" expanded="true" signature="114:543" ph="{...}" />
+                <marker date="1564029693910" expanded="true" signature="134:540" ph="{...}" />
+                <marker date="1564029693910" expanded="true" signature="175:525" ph="{...}" />
+                <marker date="1564029693910" expanded="true" signature="286:391" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -141,12 +132,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564023621839</updated>
-      <workItem from="1564023623226" duration="4502000" />
+      <workItem from="1564023623226" duration="5008000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4502000" />
+    <option name="totallyTimeSpent" value="5008000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -206,19 +197,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        <state relative-caret-position="240">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding>
-            <marker date="1564029210859" expanded="true" signature="6:67" ph="..." />
-            <marker date="1564029210859" expanded="true" signature="90:1719" ph="{...}" />
-            <marker date="1564029210859" expanded="true" signature="110:1702" ph="{...}" />
-            <marker date="1564029210859" expanded="true" signature="151:1561" ph="{...}" />
-            <marker date="1564029210859" expanded="true" signature="296:1278" ph="{...}" />
-            <marker date="1564029210859" expanded="true" signature="505:727" ph="{...}" />
-            <marker date="1564029210859" expanded="true" signature="748:858" ph="{...}" />
-            <marker date="1564029210859" expanded="true" signature="930:1086" ph="{...}" />
-            <marker date="1564029210859" expanded="true" signature="1107:1264" ph="{...}" />
-            <marker date="1564029210859" expanded="true" signature="1613:1696" ph="{...}" />
+            <marker date="1564029693910" expanded="true" signature="6:91" ph="..." />
+            <marker date="1564029693910" expanded="true" signature="114:543" ph="{...}" />
+            <marker date="1564029693910" expanded="true" signature="134:540" ph="{...}" />
+            <marker date="1564029693910" expanded="true" signature="175:525" ph="{...}" />
+            <marker date="1564029693910" expanded="true" signature="286:391" ph="{...}" />
           </folding>
         </state>
       </provider>
