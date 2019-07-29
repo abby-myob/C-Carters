@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 using ClassLibrary1;
 using Xunit;
@@ -28,6 +27,46 @@ namespace TestProject1
             
             Assert.Equal(testYears, years);
 
+        }
+
+        [Fact]
+        public void Should_return_greeting_if_name_is_Alice()
+        {
+            Greeter greeter = new Greeter("Alice");
+            var result = greeter.GetGreeting();
+            
+            Assert.Equal("Hi, Alice", result);
+        }
+
+        [Fact]
+        public void Should_return_greeting_if_name_is_Bob()
+        {
+            Greeter greeter = new Greeter("Bob");
+            var result = greeter.GetGreeting();
+            
+            Assert.Equal("Hi, Bob", result);
+        }
+
+        [Fact]
+        public void Should_not_return_greeting_if_name_is_not_bob_or_alice()
+        {
+            Greeter greeter = new Greeter("Doug");
+            var result = greeter.GetGreeting();
+            
+            Assert.Equal("", result);
+        }
+
+        [Theory]
+        [InlineData("Alice", "Hi, Alice")]
+        [InlineData("Bob", "Hi, Bob")]
+        [InlineData("Doug", "")]
+        [InlineData("alice", "Hi, Alice")]
+        public void Should_return_valid_greeting(string name, string expected)
+        {
+            Greeter greeter = new Greeter(name);
+            var result = greeter.GetGreeting();
+            
+            Assert.Equal(expected, result);
         }
     }
 }

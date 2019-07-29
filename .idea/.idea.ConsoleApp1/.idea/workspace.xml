@@ -2,24 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b273363f-8744-4ded-a90c-50702fe9b6df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/ICalculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ClassLibrary1/ICalculator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/bin/Debug/netcoreapp2.2/ClassLibrary1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ClassLibrary1/bin/Debug/netcoreapp2.2/ClassLibrary1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/bin/Debug/netcoreapp2.2/ClassLibrary1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ClassLibrary1/bin/Debug/netcoreapp2.2/ClassLibrary1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/netcoreapp2.2/ClassLibrary1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/netcoreapp2.2/ClassLibrary1.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/netcoreapp2.2/ClassLibrary1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/netcoreapp2.2/ClassLibrary1.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/netcoreapp2.2/ClassLibrary1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/netcoreapp2.2/ClassLibrary1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/netcoreapp2.2/ClassLibrary1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/netcoreapp2.2/ClassLibrary1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ClassLibrary1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ClassLibrary1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ClassLibrary1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ClassLibrary1.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject1/UnitTest1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/netcoreapp2.2/ClassLibrary1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject1/bin/Debug/netcoreapp2.2/ClassLibrary1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/netcoreapp2.2/ClassLibrary1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject1/bin/Debug/netcoreapp2.2/ClassLibrary1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,79 +27,91 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.15055248">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-                  <folding>
-                    <marker date="1564370555229" expanded="true" signature="6:254" ph="..." />
-                    <marker date="1564370555229" expanded="true" signature="277:661" ph="{...}" />
-                    <marker date="1564370555229" expanded="true" signature="297:659" ph="{...}" />
-                    <marker date="1564370555229" expanded="true" signature="338:653" ph="{...}" />
-                    <marker date="1564370555229" expanded="true" signature="548:642" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/ClassLibrary1/LeapYearCalculator.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="405">
-                  <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-                  <folding>
-                    <marker date="1564371397679" expanded="false" signature="6:47" ph="..." />
-                    <marker date="1564371397679" expanded="true" signature="72:641" ph="{...}" />
-                    <marker date="1564371397679" expanded="true" signature="110:639" ph="{...}" />
-                    <marker date="1564371397679" expanded="true" signature="195:240" ph="{...}" />
-                    <marker date="1564371397679" expanded="true" signature="284:633" ph="{...}" />
-                    <marker date="1564371397679" expanded="true" signature="412:596" ph="{...}" />
-                    <marker date="1564371397679" expanded="true" signature="477:554" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/ClassLibrary1/ICalculator.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="14" selection-start-column="14" selection-end-column="14" />
-                  <folding>
-                    <marker date="1564370346951" expanded="true" signature="23:141" ph="{...}" />
-                    <marker date="1564370346951" expanded="true" signature="60:139" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/TestProject1/UnitTest1.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-                  <folding>
-                    <marker date="1564371989055" expanded="true" signature="6:81" ph="..." />
-                    <marker date="1564371989055" expanded="true" signature="105:865" ph="{...}" />
-                    <marker date="1564371989055" expanded="true" signature="134:863" ph="{...}" />
-                    <marker date="1564371989055" expanded="true" signature="218:408" ph="{...}" />
-                    <marker date="1564371989055" expanded="true" signature="500:857" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+              <folding>
+                <marker date="1564370555229" expanded="true" signature="6:254" ph="..." />
+                <marker date="1564370555229" expanded="true" signature="277:661" ph="{...}" />
+                <marker date="1564370555229" expanded="true" signature="297:659" ph="{...}" />
+                <marker date="1564370555229" expanded="true" signature="338:653" ph="{...}" />
+                <marker date="1564370555229" expanded="true" signature="548:642" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClassLibrary1/LeapYearCalculator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <marker date="1564371397679" expanded="false" signature="6:47" ph="..." />
+                <marker date="1564371397679" expanded="true" signature="72:641" ph="{...}" />
+                <marker date="1564371397679" expanded="true" signature="110:639" ph="{...}" />
+                <marker date="1564371397679" expanded="true" signature="195:240" ph="{...}" />
+                <marker date="1564371397679" expanded="true" signature="284:633" ph="{...}" />
+                <marker date="1564371397679" expanded="true" signature="412:596" ph="{...}" />
+                <marker date="1564371397679" expanded="true" signature="477:554" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClassLibrary1/ICalculator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+              <folding>
+                <marker date="1564370346951" expanded="true" signature="23:141" ph="{...}" />
+                <marker date="1564370346951" expanded="true" signature="60:139" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestProject1/UnitTest1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="62" column="42" lean-forward="true" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
+              <folding>
+                <marker date="1564374047986" expanded="true" signature="6:67" ph="..." />
+                <marker date="1564374047986" expanded="true" signature="91:2053" ph="{...}" />
+                <marker date="1564374047986" expanded="true" signature="120:2051" ph="{...}" />
+                <marker date="1564374047986" expanded="true" signature="204:394" ph="{...}" />
+                <marker date="1564374047986" expanded="true" signature="486:843" ph="{...}" />
+                <marker date="1564374047986" expanded="true" signature="921:1101" ph="{...}" />
+                <marker date="1564374047986" expanded="true" signature="1177:1353" ph="{...}" />
+                <marker date="1564374047986" expanded="true" signature="1446:1616" ph="{...}" />
+                <marker date="1564374047986" expanded="true" signature="1871:2045" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClassLibrary1/Greeter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+              <folding>
+                <marker date="1564373767047" expanded="true" signature="23:386" ph="{...}" />
+                <marker date="1564373767047" expanded="true" signature="50:384" ph="{...}" />
+                <marker date="1564373767047" expanded="true" signature="132:178" ph="{...}" />
+                <marker date="1564373767047" expanded="true" signature="215:378" ph="{...}" />
+                <marker date="1564373767047" expanded="true" signature="277:344" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -109,6 +120,7 @@
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ClassLibrary1/ICalculator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestProject1/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClassLibrary1/Greeter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ClassLibrary1/LeapYearCalculator.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -118,6 +130,7 @@
         <option value="$PROJECT_DIR$/ClassLibrary1/ICalculator.cs" />
         <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
         <option value="$PROJECT_DIR$/ClassLibrary1/LeapYearCalculator.cs" />
+        <option value="$PROJECT_DIR$/ClassLibrary1/Greeter.cs" />
         <option value="$PROJECT_DIR$/TestProject1/UnitTest1.cs" />
       </list>
     </option>
@@ -190,7 +203,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="RiderDotCoverContinuousTestingPageId" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -235,12 +248,12 @@
       <option name="presentableId" value="Default" />
       <updated>1564023621839</updated>
       <workItem from="1564023623226" duration="5008000" />
-      <workItem from="1564369975916" duration="2116000" />
+      <workItem from="1564369975916" duration="4178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12679000" />
+    <option name="totallyTimeSpent" value="14741000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -253,7 +266,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="-1057" width="1080" height="1897" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18593448" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -311,13 +323,18 @@
     <entry file="file://$PROJECT_DIR$/ClassLibrary1/Class1.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClassLibrary1/ICalculator.cs">
+    <entry file="file://$PROJECT_DIR$/ClassLibrary1/LeapYearCalculator.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="405">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
           <folding>
-            <marker date="1564370346951" expanded="true" signature="23:141" ph="{...}" />
-            <marker date="1564370346951" expanded="true" signature="60:139" ph="{...}" />
+            <marker date="1564371397679" expanded="false" signature="6:47" ph="..." />
+            <marker date="1564371397679" expanded="true" signature="72:641" ph="{...}" />
+            <marker date="1564371397679" expanded="true" signature="110:639" ph="{...}" />
+            <marker date="1564371397679" expanded="true" signature="195:240" ph="{...}" />
+            <marker date="1564371397679" expanded="true" signature="284:633" ph="{...}" />
+            <marker date="1564371397679" expanded="true" signature="412:596" ph="{...}" />
+            <marker date="1564371397679" expanded="true" signature="477:554" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -336,32 +353,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClassLibrary1/LeapYearCalculator.cs">
+    <entry file="file://$PROJECT_DIR$/ClassLibrary1/ICalculator.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
           <folding>
-            <marker date="1564371397679" expanded="false" signature="6:47" ph="..." />
-            <marker date="1564371397679" expanded="true" signature="72:641" ph="{...}" />
-            <marker date="1564371397679" expanded="true" signature="110:639" ph="{...}" />
-            <marker date="1564371397679" expanded="true" signature="195:240" ph="{...}" />
-            <marker date="1564371397679" expanded="true" signature="284:633" ph="{...}" />
-            <marker date="1564371397679" expanded="true" signature="412:596" ph="{...}" />
-            <marker date="1564371397679" expanded="true" signature="477:554" ph="{...}" />
+            <marker date="1564370346951" expanded="true" signature="23:141" ph="{...}" />
+            <marker date="1564370346951" expanded="true" signature="60:139" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassLibrary1/Greeter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+          <folding>
+            <marker date="1564373767047" expanded="true" signature="23:386" ph="{...}" />
+            <marker date="1564373767047" expanded="true" signature="50:384" ph="{...}" />
+            <marker date="1564373767047" expanded="true" signature="132:178" ph="{...}" />
+            <marker date="1564373767047" expanded="true" signature="215:378" ph="{...}" />
+            <marker date="1564373767047" expanded="true" signature="277:344" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestProject1/UnitTest1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="559">
+          <caret line="62" column="42" lean-forward="true" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
           <folding>
-            <marker date="1564371989055" expanded="true" signature="6:81" ph="..." />
-            <marker date="1564371989055" expanded="true" signature="105:865" ph="{...}" />
-            <marker date="1564371989055" expanded="true" signature="134:863" ph="{...}" />
-            <marker date="1564371989055" expanded="true" signature="218:408" ph="{...}" />
-            <marker date="1564371989055" expanded="true" signature="500:857" ph="{...}" />
+            <marker date="1564374047986" expanded="true" signature="6:67" ph="..." />
+            <marker date="1564374047986" expanded="true" signature="91:2053" ph="{...}" />
+            <marker date="1564374047986" expanded="true" signature="120:2051" ph="{...}" />
+            <marker date="1564374047986" expanded="true" signature="204:394" ph="{...}" />
+            <marker date="1564374047986" expanded="true" signature="486:843" ph="{...}" />
+            <marker date="1564374047986" expanded="true" signature="921:1101" ph="{...}" />
+            <marker date="1564374047986" expanded="true" signature="1177:1353" ph="{...}" />
+            <marker date="1564374047986" expanded="true" signature="1446:1616" ph="{...}" />
+            <marker date="1564374047986" expanded="true" signature="1871:2045" ph="{...}" />
           </folding>
         </state>
       </provider>
