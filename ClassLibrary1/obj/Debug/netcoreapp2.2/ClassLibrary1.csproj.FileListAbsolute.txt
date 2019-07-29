@@ -1,0 +1,9 @@
+/Users/abby.thompson/Development/Katas/ClassLibrary1/bin/Debug/netcoreapp2.2/ClassLibrary1.deps.json
+/Users/abby.thompson/Development/Katas/ClassLibrary1/bin/Debug/netcoreapp2.2/ClassLibrary1.dll
+/Users/abby.thompson/Development/Katas/ClassLibrary1/bin/Debug/netcoreapp2.2/ClassLibrary1.pdb
+/Users/abby.thompson/Development/Katas/ClassLibrary1/obj/Debug/netcoreapp2.2/ClassLibrary1.csprojAssemblyReference.cache
+/Users/abby.thompson/Development/Katas/ClassLibrary1/obj/Debug/netcoreapp2.2/ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/abby.thompson/Development/Katas/ClassLibrary1/obj/Debug/netcoreapp2.2/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/abby.thompson/Development/Katas/ClassLibrary1/obj/Debug/netcoreapp2.2/ClassLibrary1.AssemblyInfo.cs
+/Users/abby.thompson/Development/Katas/ClassLibrary1/obj/Debug/netcoreapp2.2/ClassLibrary1.dll
+/Users/abby.thompson/Development/Katas/ClassLibrary1/obj/Debug/netcoreapp2.2/ClassLibrary1.pdb

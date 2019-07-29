@@ -17,7 +17,11 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/Users/abby.thompson/Development/Katas/ClassLibrary1/ClassLibrary1.csproj": {
+            "projectPath": "/Users/abby.thompson/Development/Katas/ClassLibrary1/ClassLibrary1.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

@@ -1,4 +1,4 @@
-namespace ConsoleApp1
+namespace ClassLibrary1
 {
     internal interface ICalculator
     {
